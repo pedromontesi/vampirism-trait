@@ -1,0 +1,10 @@
+Moodles_EN = {
+    Moodles_Vampirism_Good_lvl1 = "Vampirism",
+    Moodles_Vampirism_Good_desc_lvl1 = "Every 3 zombies you kill, you gain a % of your health.",
+    Moodles_Vampirism_Good_lvl2 = "Vampirism",
+    Moodles_Vampirism_Good_desc_lvl2 = "Every 3 zombies you kill, you gain a % of your health.",
+    Moodles_Vampirism_Good_lvl3 = "Vampirism",
+    Moodles_Vampirism_Good_desc_lvl3 = "Every 3 zombies you kill, you gain a % of your health.",
+    Moodles_Vampirism_Good_lvl4 = "Vampirism",
+    Moodles_Vampirism_Good_desc_lvl4 = "Every 3 zombies you kill, you gain a % of your health.",
+}
